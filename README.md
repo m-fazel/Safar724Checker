@@ -197,7 +197,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Author
 
-- **Mohammad Fazel Samavati** - [Your GitHub](https://github.com/m-fazel)
+- **Mohammad Fazel Samavati** - [m-fazel](https://github.com/m-fazel)
 
 ## 🙏 Acknowledgments
 
